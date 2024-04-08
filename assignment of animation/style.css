@@ -1,0 +1,85 @@
+body {
+  background-image: url(bg.jpg);
+  background-size: 2000px 6000px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #e3e3e3;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+.okay {
+  text-align: center;
+  color: black;
+}
+
+header {
+  text-align: center;
+  padding: 100px;
+}
+
+.main {
+  display: flex;
+  border: 1 rem solid;
+  justify-content: center;
+
+  flex-wrap: wrap;
+}
+
+.cid {
+  width: 40%;
+  background-color: rgb(19, 4, 46);
+  font-size: 24px;
+  margin: 100px 10px;
+  border: 1px solid #e3e3e3;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 10px solid rgb(247, 243, 243);
+  padding: 10px;
+  position: relative;
+}
+.cid2 {
+  width: 40%;
+  background-color: rgb(19, 4, 46);
+  font-size: 24px;
+  margin: 100px 10px;
+  border: 1px solid #e3e3e3;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 10px solid rgb(247, 243, 243);
+  margin-top: 20%;
+}
+.ikram {
+  padding-left: 100px;
+  font-size: 30px;
+  color: black;
+}
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 100px;
+  height: auto;
+}
+h1 {
+  padding-left: 550px;
+}
+h2 {
+  padding-left: 500px;
+  font-size: 34px;
+  color: black;
+}
+.custom-hr {
+  width: 1000px;
+  height: 2px;
+  border: none;
+  background-color: rgb(206, 199, 199);
+}
+h3 {
+  padding-right: 300px;
+  font-size: 34px;
+}
